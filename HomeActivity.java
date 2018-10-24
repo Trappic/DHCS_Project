@@ -60,6 +60,7 @@ public class HomeActivity extends AppCompatActivity
     private int currentLevel = 0;
     private GoogleSignInClient mGoogleSignInClient;
     private TextView mStatusTextView;
+    
     private String displayName;
 
     private String accountID;
